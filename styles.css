@@ -1,0 +1,41 @@
+/* Made by George Olufemi */
+
+
+/* * {
+    background-color: black;
+}
+
+body {
+    background-color: lightgray;
+} */
+
+.hitsongs {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+img {
+    height: 270px;
+    width: 300px;
+    margin-top: 10px;
+}
+
+p {
+    color: rgb(129, 129, 129);
+}
+
+.description {
+    color: gold;
+    text-decoration: none;
+}
+
+.file {
+    color: black;
+}
+
+/* .col {
+    color: white;
+} */
